@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fdf65703-bf0b-44ea-bef8-3c48ce3e7918" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogen/css/all.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogen/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogen/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogen/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogen/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogen/js/jquery-3.4.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogen/js/popper.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogen/categories.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogen/posts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogen/users.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -24,27 +18,59 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blogen/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="223" column="30" selection-start-line="223" selection-start-column="30" selection-end-line="223" selection-end-column="30" />
+            <state relative-caret-position="177">
+              <caret line="106" column="26" lean-forward="true" selection-end-line="357" selection-end-column="7" />
               <folding>
                 <element signature="e#3762#3768#0" expanded="true" />
                 <element signature="e#4713#4719#0" expanded="true" />
                 <element signature="e#5753#5759#0" expanded="true" />
-                <element signature="e#6362#6368#0" expanded="true" />
-                <element signature="e#6975#6981#0" expanded="true" />
-                <element signature="e#7588#7594#0" expanded="true" />
-                <element signature="e#8201#8207#0" expanded="true" />
                 <element signature="e#8814#8820#0" expanded="true" />
-                <element signature="e#9393#9399#0" expanded="true" />
-                <element signature="e#9877#9883#0" expanded="true" />
-                <element signature="e#10357#10363#0" expanded="true" />
                 <element signature="e#10904#10910#0" expanded="true" />
-                <element signature="e#4816#4823#1" expanded="true" />
-                <element signature="e#7064#7071#1" expanded="true" />
-                <element signature="e#8068#8075#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blogen/categories.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="16" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blogen/users.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="16" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bs4boiler/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="11" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blogen/posts.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="697">
+              <caret line="53" column="25" lean-forward="true" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="25" />
+              <folding>
+                <element signature="e#4713#4719#0" expanded="true" />
+                <element signature="e#5753#5759#0" expanded="true" />
+                <element signature="e#8814#8820#0" expanded="true" />
+                <element signature="e#10904#10910#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -54,7 +80,7 @@
         <entry file="file://$PROJECT_DIR$/bootstrap_sandbox_final/2_7_sizing.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" column="57" lean-forward="true" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="57" />
+              <caret line="6" column="57" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -62,8 +88,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bootstrap_sandbox_final/3_5_forms.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1751">
-              <caret line="20" column="69" lean-forward="true" selection-start-line="20" selection-start-column="69" selection-end-line="20" selection-end-column="69" />
+            <state relative-caret-position="340">
+              <caret line="20" column="69" selection-start-line="20" selection-start-column="69" selection-end-line="20" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -73,8 +99,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -90,6 +116,7 @@
       <find>explore</find>
       <find>navbarCollapse</find>
       <find>fas</find>
+      <find>addp</find>
     </findStrings>
     <replaceStrings>
       <replace>left</replace>
@@ -100,8 +127,6 @@
       <replace>create</replace>
       <replace>share</replace>
       <replace>fas d-md-none d-inline</replace>
-      <replace>fas d-md-none d-inline</replace>
-      <replace>fas d-md-inline d-none</replace>
       <replace>fas d-md-inline d-none</replace>
     </replaceStrings>
   </component>
@@ -153,13 +178,17 @@
         <option value="$PROJECT_DIR$/glozzom/index.html" />
         <option value="$PROJECT_DIR$/bootstrap_sandbox_final/3_9_cards.html" />
         <option value="$PROJECT_DIR$/blogen/index.html" />
+        <option value="$PROJECT_DIR$/posts.html" />
+        <option value="$PROJECT_DIR$/blogen/categories.html" />
+        <option value="$PROJECT_DIR$/blogen/users.html" />
+        <option value="$PROJECT_DIR$/blogen/posts.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="width" value="758" />
-    <option name="height" value="1038" />
+    <option name="x" value="-9" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -179,11 +208,6 @@
               <item name="traversy-bootstrap" type="b2602c69:ProjectViewProjectNode" />
               <item name="traversy-bootstrap" type="462c0819:PsiDirectoryNode" />
               <item name="blogen" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="traversy-bootstrap" type="b2602c69:ProjectViewProjectNode" />
-              <item name="traversy-bootstrap" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap_sandbox_final" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="traversy-bootstrap" type="b2602c69:ProjectViewProjectNode" />
@@ -213,11 +237,12 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\phillipsw1\WebstormProjects\traversy-bootstrap\blogen" />
+      <recent name="C:\Users\phillipsw1\WebstormProjects\traversy-bootstrap\bs4boiler\css" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\phillipsw1\WebstormProjects\traversy-bootstrap\blogen" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\phillipsw1\WebstormProjects\traversy-bootstrap\bs4boiler\css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -232,29 +257,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (3)">
-    <configuration name="2_3_text_alignment_display.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/traversy-bootstrap/bootstrap_sandbox_final/2_3_text_alignment_display.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.3_5_forms.html (1)">
+    <configuration name="2_7_sizing.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/traversy-bootstrap/bootstrap_sandbox_final/2_7_sizing.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="2_7_sizing.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/traversy-bootstrap/bootstrap_sandbox_final/2_7_sizing.html" useBuiltInWebServerPort="true">
+    <configuration name="3_5_forms.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/traversy-bootstrap/bootstrap_sandbox_starter/3_5_forms.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="3_5_forms.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/traversy-bootstrap/bootstrap_sandbox_final/3_5_forms.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="4_2_grid_system.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/traversy-bootstrap/bootstrap_sandbox_final/4_2_grid_system.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/traversy-bootstrap/blogen/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/traversy-bootstrap/blogen/index.html" useBuiltInWebServerPort="true">
+    <configuration name="posts.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/traversy-bootstrap/blogen/posts.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.3_5_forms.html (1)" />
+        <item itemvalue="JavaScript Debug.posts.html" />
         <item itemvalue="JavaScript Debug.index.html (3)" />
         <item itemvalue="JavaScript Debug.2_7_sizing.html" />
         <item itemvalue="JavaScript Debug.3_5_forms.html" />
-        <item itemvalue="JavaScript Debug.2_3_text_alignment_display.html" />
-        <item itemvalue="JavaScript Debug.4_2_grid_system.html" />
       </list>
     </recent_temporary>
   </component>
@@ -283,12 +308,13 @@
       <workItem from="1565830772661" duration="5566000" />
       <workItem from="1566620024921" duration="984000" />
       <workItem from="1567715950239" duration="3769000" />
-      <workItem from="1567730652923" duration="4776000" />
+      <workItem from="1567730652923" duration="5179000" />
+      <workItem from="1567790585394" duration="2728000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82740000" />
+    <option name="totallyTimeSpent" value="85871000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -300,12 +326,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="606" height="830" extended-state="0" />
-    <editor active="true" />
+    <frame x="-6" y="0" width="781" height="830" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.35426307" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="2" weight="0.3534946" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -327,27 +352,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bootstrap_sandbox_starter/2_4_floats_position.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1316">
-          <caret line="179" lean-forward="true" selection-start-line="179" selection-end-line="179" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap_sandbox_starter/2_8_breakpoints.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap_sandbox_starter/3_2_buttons.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="209" column="72" selection-start-line="209" selection-start-column="72" selection-end-line="209" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bootstrap_sandbox_starter/2_7_sizing.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="219">
@@ -513,13 +517,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bs4boiler/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/looplab/img/create-section1.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -666,40 +663,64 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap_sandbox_final/3_5_forms.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1751">
-          <caret line="20" column="69" lean-forward="true" selection-start-line="20" selection-start-column="69" selection-end-line="20" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bootstrap_sandbox_final/2_7_sizing.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="57" lean-forward="true" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="57" />
+          <caret line="6" column="57" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap_sandbox_final/3_5_forms.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="69" selection-start-line="20" selection-start-column="69" selection-end-line="20" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogen/categories.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogen/users.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bs4boiler/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blogen/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="223" column="30" selection-start-line="223" selection-start-column="30" selection-end-line="223" selection-end-column="30" />
+        <state relative-caret-position="177">
+          <caret line="106" column="26" lean-forward="true" selection-end-line="357" selection-end-column="7" />
           <folding>
             <element signature="e#3762#3768#0" expanded="true" />
             <element signature="e#4713#4719#0" expanded="true" />
             <element signature="e#5753#5759#0" expanded="true" />
-            <element signature="e#6362#6368#0" expanded="true" />
-            <element signature="e#6975#6981#0" expanded="true" />
-            <element signature="e#7588#7594#0" expanded="true" />
-            <element signature="e#8201#8207#0" expanded="true" />
             <element signature="e#8814#8820#0" expanded="true" />
-            <element signature="e#9393#9399#0" expanded="true" />
-            <element signature="e#9877#9883#0" expanded="true" />
-            <element signature="e#10357#10363#0" expanded="true" />
             <element signature="e#10904#10910#0" expanded="true" />
-            <element signature="e#4816#4823#1" expanded="true" />
-            <element signature="e#7064#7071#1" expanded="true" />
-            <element signature="e#8068#8075#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogen/posts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="53" column="25" lean-forward="true" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="25" />
+          <folding>
+            <element signature="e#4713#4719#0" expanded="true" />
+            <element signature="e#5753#5759#0" expanded="true" />
+            <element signature="e#8814#8820#0" expanded="true" />
+            <element signature="e#10904#10910#0" expanded="true" />
           </folding>
         </state>
       </provider>
